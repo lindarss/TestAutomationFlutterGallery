@@ -3,7 +3,7 @@ Take Home Test for QA Engineer in Fita
 
 How to run the tests:
 1. please run appium server first
-2. set UDID in general.java with your device
+2. set config UDID,etc - in general.java with your device
 3. run as TestNG - I'm using maven, appium, testNG
 
 How I setup the structure to fit automated test:
